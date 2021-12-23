@@ -1,0 +1,3 @@
+
+rootProject.name = 'jol_quickstart'
+include('app')

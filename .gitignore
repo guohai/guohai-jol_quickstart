@@ -1,0 +1,8 @@
+*/build
+.gradle
+
+*.jar
+*.so
+
+!gradle/wrapper/gradle-wrapper.jar
+
